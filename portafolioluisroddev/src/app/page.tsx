@@ -8,7 +8,7 @@ export default function Home() {
           <Image width={300} height={200} src="/images/meBigSmileWithDarkGlasess.webp" alt="me-little-smile" />
         </div>
         <div className="flex items-center h-full">
-          <span className="text-xl text-white">Soy Luis, <strong>Desarrollador Web</strong></span>
+          <span className="text-xl text-white">Soy Luis, <strong> Desarrollador Web</strong></span>
         </div>
       </main>
     </div>
